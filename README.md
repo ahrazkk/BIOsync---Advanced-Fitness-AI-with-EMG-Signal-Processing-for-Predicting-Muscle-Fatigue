@@ -35,22 +35,28 @@ BIOsync lays the foundation for AI-enabled fitness tracking solutions, supportin
 
 ## Images of Program:
 
-###1:
+1:
+
 ![image](https://github.com/user-attachments/assets/d67b4818-24af-48c9-a476-73e73df0ef88)
 
-###2:
+2:
+
 ![image](https://github.com/user-attachments/assets/637cc4ad-705f-4bbb-90ed-6f344482723d)
 
-###3:
+3:
+
 ![image](https://github.com/user-attachments/assets/2eb1a3f8-042c-4d0e-bee2-7ca1bd234c5e)
 
-###4:
+4:
+
 ![image](https://github.com/user-attachments/assets/9e57105a-0534-449f-94d4-676add9e4120)
 
-###5:
+5:
+
 ![image](https://github.com/user-attachments/assets/222e3280-8f0b-4ad2-a9d9-17c4690b2eb5)
 
-###6:
+6:
+
 ![image](https://github.com/user-attachments/assets/79206830-5bf2-413c-a2b1-fbaac284eb36)
 
 
